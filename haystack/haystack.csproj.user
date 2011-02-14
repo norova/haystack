@@ -1,0 +1,14 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Ryan\Desktop\haystack_pub\|C:\|C:\Users\Ryan\Desktop\|ftp://norova:y2V8XtgR%40yourfirefly.com/haystack/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.yourfirefly.com/haystack/|http://localhost/haystack/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
