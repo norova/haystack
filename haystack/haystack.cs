@@ -108,12 +108,12 @@ namespace haystack
                     url = "http://www.altavista.com/web/results?" + Parameters;
                     break;
 
-                case "Live Search":
+                case "Bing":
                     Parameters = "q=" + Query;
                     Parameters += "&go=";
-                    Parameters += "&form=QBHP";
+                    Parameters += "&form=QBLH";
 
-                    url = "http://search.live.com/results.aspx?" + Parameters;
+                    url = "http://www.bing.com/search?" + Parameters;
                     break;
 
                 case "metacrawler":
@@ -249,7 +249,7 @@ namespace haystack
             listAvailable.Items.Add("Ask");
             listAvailable.Items.Add("Yahoo");
             listAvailable.Items.Add("AltaVista");
-            listAvailable.Items.Add("Live Search");
+            listAvailable.Items.Add("Bing");
             listAvailable.Items.Add("metacrawler");
             listAvailable.Items.Add("Excite");
             listAvailable.Items.Add("Answers.com");
